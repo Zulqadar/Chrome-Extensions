@@ -1,0 +1,16 @@
+//Created By: Zulqadar Idrishi
+//Below are some steps to use and install it on Chrome Browser
+
+STEPS->:
+    i. Go to Chrome Extensions Settings by the Following Path:
+        chrome://extensions/
+    ii. Enable 'Developer mode' to on
+    iii. Click on 'Load Unpacked'
+    iv. Choose the folder where you have put your Chrome Extension Project
+    V. Click 'OK'
+    Vi. You will see Your Extension is added to chrome, Now click on 'Refresh icon' given inside your extension
+    vii. See the tab url bar and You will your extension
+    viii. Now, Open any web page and select any text on that.
+    ix. Now, Right-click on the selected text you will see context menu 'Translate to Hindi:'.
+    ix. Hurrah... We successfully created context menu using chrome extension.
+© 2021 GitHub, Inc.
