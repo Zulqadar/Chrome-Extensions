@@ -1,0 +1,13 @@
+{
+    "name": "Context Menu(Right Click Menu)",
+    "version": "1.0",
+    "manifest_version": 2,
+    "author":"Zulqadar Idrishi",
+    "description": "This chrome extension adds a context menu in right-click of any web page in chrome browser and performs action on selected text.",
+    "permissions": [
+      "contextMenus"
+     ],
+    "background": { 
+      "scripts": ["script.js"]
+    }
+}
